@@ -7,5 +7,5 @@ hello git! hello codefishyyf!
 hello git! hello codefishyyf!
 hello git! hello codefishyyf!
 hello git! hello codefishyyf!
-hello git! hello codefishyyf!
+hello git! hello codefishyyf! hotfix mergeing test
 hello git! hello codefishyyf!
